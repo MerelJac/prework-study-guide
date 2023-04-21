@@ -1,11 +1,8 @@
-prework-study-guide
-Basic web development project before Full Stack Boot Camp begins &amp; getting familiar with GitHub.
-
 # Prework Study Guide Webpage
 
 ## Description
- - 
- This Study Guide was created for Full Stack Bootcamp students. It contains notes relevent to their Prework assignemtns including HTML, CSS, Git, and JavaScript. 
+
+This Study Guide was created for Full Stack Bootcamp students. It contains notes relevent to their Prework assignemtns including HTML, CSS, Git, and JavaScript. 
 
 ## Installation
 
